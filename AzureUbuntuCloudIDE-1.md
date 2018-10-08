@@ -1,10 +1,10 @@
-# Azure Ubuntu Dev - Setup Script
+# Azure Ubuntu Cloud IDE - Setup Script
 
 Mark Harrison : 5 Oct 2018
 
 ![](Images/Ubuntu.png)
 
-- [Setup Azure Ubuntu development machine](AzureUbuntuDev-1.md) ... this document
+- [Setup Azure Ubuntu Cloud IDE](AzureUbuntuCloudIDE-1.md) ... this document
 
 ## Overview
 
